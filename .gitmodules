@@ -1,0 +1,12 @@
+[submodule "my_impl/raft"]
+	path = my_impl/raft
+	url = https://github.com/TKTHdev/TKT-Raft.git
+[submodule "my_impl/pbft"]
+	path = my_impl/pbft
+	url = https://github.com/TKTHdev/TKT-VBFT.git
+[submodule "my_impl/chain"]
+	path = my_impl/chain
+	url = https://github.com/TKTHdev/TKT-Chain-Replication.git
+[submodule "my_impl/tsujido"]
+	path = my_impl/tsujido
+	url = https://github.com/TKTHdev/Tsujido.git
