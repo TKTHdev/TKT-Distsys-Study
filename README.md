@@ -13,11 +13,11 @@ my_impl/    My own implementations
 
 ## Implementations (`my_impl/`)
 
-| Directory | Description |
-|---|---|
-| [raft/](my_impl/raft/) | Raft consensus algorithm |
-| [pbft/](my_impl/pbft/) | Practical Byzantine Fault Tolerance (PBFT) |
-| [chain/](my_impl/chain/) | Chain Replication & CRAQ |
-| [tsujido/](my_impl/tsujido/) | State machine library for consensus integration |
+| Directory | Repository | Description |
+|---|---|---|
+| raft/ | [TKT-Raft](https://github.com/TKTHdev/TKT-Raft) | Raft consensus algorithm |
+| pbft/ | [TKT-VBFT](https://github.com/TKTHdev/TKT-VBFT) | Practical Byzantine Fault Tolerance (PBFT) |
+| chain/ | [TKT-Chain-Replication](https://github.com/TKTHdev/TKT-Chain-Replication) | Chain Replication & CRAQ |
+| tsujido/ | [Tsujido](https://github.com/TKTHdev/Tsujido) | State machine library for consensus integration |
 
 All implementations are written in Go.

@@ -13,11 +13,11 @@ my_impl/    自分の実装
 
 ## 実装 (`my_impl/`)
 
-| ディレクトリ | 内容 |
-|---|---|
-| [raft/](my_impl/raft/) | Raft 合意アルゴリズム |
-| [pbft/](my_impl/pbft/) | PBFT (実用的ビザンチン障害耐性) |
-| [chain/](my_impl/chain/) | Chain Replication & CRAQ |
-| [tsujido/](my_impl/tsujido/) | 合意層統合用のステートマシンライブラリ |
+| ディレクトリ | リポジトリ | 内容 |
+|---|---|---|
+| raft/ | [TKT-Raft](https://github.com/TKTHdev/TKT-Raft) | Raft 合意アルゴリズム |
+| pbft/ | [TKT-VBFT](https://github.com/TKTHdev/TKT-VBFT) | PBFT (実用的ビザンチン障害耐性) |
+| chain/ | [TKT-Chain-Replication](https://github.com/TKTHdev/TKT-Chain-Replication) | Chain Replication & CRAQ |
+| tsujido/ | [Tsujido](https://github.com/TKTHdev/Tsujido) | 合意層統合用のステートマシンライブラリ |
 
 実装はすべて Go で書かれています。
