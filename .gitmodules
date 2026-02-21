@@ -10,3 +10,6 @@
 [submodule "my_impl/tsujido"]
 	path = my_impl/tsujido
 	url = https://github.com/TKTHdev/Tsujido.git
+[submodule "my_impl/hermes"]
+	path = my_impl/hermes
+	url = https://github.com/TKTHdev/TKT-Hermes.git
